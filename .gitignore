@@ -1,0 +1,4 @@
+.venv
+.vscode
+.deprecated
+__pycache__
